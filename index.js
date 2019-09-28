@@ -18,6 +18,11 @@ function setUp (){
         location.reload();
     });
 
+    document.getElementById('record').addEventListener('click', function(){
+        document.getElementById("recorded").innerHTML += "<tr>" + time + "</tr>";
+
+    });
+
     document.getElementById('start').addEventListener('click', function(){
     
     if (started == false){          
