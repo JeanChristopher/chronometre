@@ -19,7 +19,7 @@ function setUp (){
     });
 
     document.getElementById('record').addEventListener('click', function(){
-        document.getElementById("recorded").innerHTML += "<tr>" + time + "</tr>";
+        document.getElementById("recorded").innerHTML += "<table><tr><td>" + time + "</td></tr><table>";
 
     });
 
