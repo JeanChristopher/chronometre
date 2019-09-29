@@ -1,3 +1,13 @@
+## How to make this application work ?
+
+**- start/stop button** : starts or stops the countdown
+the application also starts when we click the **s** button on the keyboard 
+**- reset button** : Reset the application
+the application also resets when we click the **r** button on the keyboard
+**- record** : record the current countsown time if the coundown is started
+The time is also recorded when we click the **t** button on the keyboard
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JeanChristopher/chronometre/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
